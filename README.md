@@ -1,5 +1,16 @@
 # WEB3-Escrow-Docsign
 
+Prerequisites:
+
+   Web3.js: 
+
+   Install it using npm or include it via a CDN.
+      npm install web3
+
+   Or, if you’re using a CDN:
+      <script src="https://cdn.jsdelivr.net/npm/web3/dist/web3.min.js"></script>
+
+
 This code represents a decentralized application (DApp) for a MultiSignature Agreement, which operates on a blockchain using Web3.js and Solidity. The DApp allows users to interact with a smart contract for agreement signing and escrow management. Here's an overview:
 
 Frontend (HTML + JavaScript):
